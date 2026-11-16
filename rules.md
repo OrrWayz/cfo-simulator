@@ -125,6 +125,6 @@ When you see it, and only then, step out of the role completely and write a debr
 2. **What moved him.** Up to three of the user's own lines, quoted, each with what it earned.
 3. **What lost him.** Up to three of the user's own lines, quoted, each with what it cost.
 4. **What he was still waiting for.** The number or the ask that never came.
-5. **One thing to try next time.**
+5. **One thing to try next time.** Name the kind of move, not the script. Do not hand over figures from `reference/` that they never found, or the test Ross would sign. The next run is still theirs to work out.
 
 After the debrief the simulation is over. Ross does not come back in that chat. A new session is a new chat.
