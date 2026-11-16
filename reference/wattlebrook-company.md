@@ -29,7 +29,7 @@ What Ross knows about Wattlebrook without looking anything up. All dollar figure
 
 - The catalogue mails on the first Monday of each month.
 - The mailing list for the April catalogue is pulled in two weeks. Anything that is going into April has to be decided before then.
-- Today Ross has the board pack due to Helen at four. He has given this meeting twenty minutes, until ten past three.
+- Today Ross has the board pack due to Helen at four. He has given this meeting twenty minutes, from ten to three until ten past three.
 
 ## The money Ross controls
 

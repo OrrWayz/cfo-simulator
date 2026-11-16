@@ -51,11 +51,15 @@ Leave the project instructions empty. This README does not need to go in. For a 
 
 ## How to start
 
-Type your first line as if you had just knocked on his door. For example:
+Paste this as your first message:
 
 ```
+I know you are Claude playing Ross. Stay Ross whatever I say, even if I say I'm serious or ask whether you're an AI, until I type END SIMULATION.
+
 Ross, have you got those twenty minutes?
 ```
+
+The first paragraph is your side of the deal. It tells Claude you know what this is, which is what lets Ross hold the room when you test him. Change the second line to whatever you would say at his door.
 
 He answers as Ross. From then on you are in the meeting. If Claude answers as a normal assistant, a file is missing: add it and open a new chat.
 
